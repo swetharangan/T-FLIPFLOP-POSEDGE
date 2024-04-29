@@ -1,11 +1,9 @@
 # T-FLIPFLOP-POSEDGE
 
 **AIM:**
-
 To implement  T flipflop using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:**
-
 Quartus prime
 
 **THEORY**
@@ -27,7 +25,6 @@ Here, Qtt & Qt+1t+1 are present state & next state respectively. So, T flip-flop
 From the above characteristic table, we can directly write the next state equation as Q(t+1)=T′Q(t)+TQ(t)′ ⇒Q(t+1)=T⊕Q(t)
 
 **Procedure**
-
 /* 
 Step 1: Open Quartus II in your laptop.
 
@@ -67,11 +64,9 @@ endmodule
 */
 ```
 ## RTL LOGIC FOR FLIPFLOPS
-
 ![Screenshot 2024-04-29 210923](https://github.com/23005672/T-FLIPFLOP-POSEDGE/assets/138971519/7cd7893c-0d9f-4c1c-a52a-b11d140addae)
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
-
 ![dff1](https://github.com/23005672/T-FLIPFLOP-POSEDGE/assets/138971519/54928eab-f897-40a3-8251-087f8da3a39e)
 
 ## RESULTS:
